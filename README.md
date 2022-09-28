@@ -8,6 +8,8 @@ Atualmente estudante de Análise e Desenvolvimento de Software, apaixonado por t
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-cgomes&show_icons=true&theme=dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cgomes&layout=compact&langs_count=7&theme=dark)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -15,6 +17,6 @@ Atualmente estudante de Análise e Desenvolvimento de Software, apaixonado por t
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
+ 
 ### Últimos projetos de estudos📚
 - [API Places](https://github.com/arthur-cgomes/API-places)
