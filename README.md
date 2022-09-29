@@ -20,3 +20,4 @@ Atualmente estudante de Análise e Desenvolvimento de Software, apaixonado por t
  
 ### Últimos projetos de estudos📚
 - [API Places](https://github.com/arthur-cgomes/API-places)
+- [BarberShop](https://github.com/arthur-cgomes/Abigus-BarberShop)
