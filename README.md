@@ -19,5 +19,4 @@ Atualmente estudante de Análise e Desenvolvimento de Software, apaixonado por t
 </div><br/>
  
 ### Últimos projetos de estudos📚
-- [API Places](https://github.com/arthur-cgomes/API-places)
 - [AppBarbearia](https://github.com/arthur-cgomes/AppBarbearia)
