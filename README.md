@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur Gomes 🤙
 
-Atualmente estudante de Análise e Desenvolvimento de Software, apaixonado por tecnologia!🚀
+Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia!🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gomes-701549193/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.arthurdev@gmail.com)
