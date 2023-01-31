@@ -20,3 +20,5 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
  
 ### Últimos projetos de estudos📚
 - [AppBarbearia](https://github.com/arthur-cgomes/AppBarbearia)
+- [MiniChat](https://github.com/arthur-cgomes/MiniChat)
+- [BatePonto](https://github.com/arthur-cgomes/BatePonto)
