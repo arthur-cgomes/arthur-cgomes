@@ -22,3 +22,5 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
 - [AppBarbearia](https://github.com/arthur-cgomes/AppBarbearia)
 - [MiniChat](https://github.com/arthur-cgomes/MiniChat)
 - [BatePonto](https://github.com/arthur-cgomes/BatePonto)
+- [Calculadora](https://github.com/arthur-cgomes/Calculadora)
+- [Sorteador-[Jogo]](https://github.com/arthur-cgomes/Sorteador-Jogo)
