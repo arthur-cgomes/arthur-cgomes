@@ -5,6 +5,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gomes-701549193/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.arthurdev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurcgomes_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-cgomes&show_icons=true&theme=dark)
 
