@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur Gomes 🤙
+## Olá! Eu sou o Arthur Gomes
 
 Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia!🚀
 
@@ -24,4 +24,5 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, apaixonado por t
 - [MiniChat](https://github.com/arthur-cgomes/MiniChat)
 - [BatePonto](https://github.com/arthur-cgomes/BatePonto)
 - [Calculadora](https://github.com/arthur-cgomes/Calculadora)
-- [Sorteador-[Jogo]](https://github.com/arthur-cgomes/Sorteador-Jogo)
+- [Sorteador](https://github.com/arthur-cgomes/Sorteador-Jogo)
+- [API de localizações](https://github.com/arthur-cgomes/backend-challenge)
